@@ -18,4 +18,13 @@ class Book
     @author
   end
 
+  def page_count=(pc)
+    @page_count= pc
+
+  end
+
+  def author
+    @author
+  end
+
 end

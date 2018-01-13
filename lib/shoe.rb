@@ -41,7 +41,7 @@ def condition
 end
 
 def cobble
-  puts "the shoe has been repaired"
+  puts "our shoe is as good as new!"
 
 end
 
